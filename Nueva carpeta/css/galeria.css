@@ -1,0 +1,30 @@
+main article{
+    background-color: #F9F9F9;
+    border-radius: 1%;
+    border: 1px solid #BFBFBF;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    width: 30%;
+    padding: 20px;
+    display: inline-block;
+    
+  
+
+}
+main{
+    
+    justify-content: center;
+   
+   
+}
+article{
+    margin-top: 100px;
+}
+#article1{
+    margin-right: 5%;
+    margin-left: 15%;
+}
+#article2{
+    
+    margin-right: 15%;
+
+}
